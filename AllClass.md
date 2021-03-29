@@ -15,8 +15,8 @@
 
 #### Single Class Hit Dice
 ##### Replace NAME whit your caracters name
-&{template:default}?{How mutch?}{{name=Hit Dice Healing}}{{NAME recovers [[?{How mutch?}d@{hitdietype}+?{How mutch?}*@{NAME|constitution_mod}[CON]]] HP}}
+&{template:default}?{How mutch?}{{name=Hit Dice Healing}}{{NAME recovers [[?{How mutch?}d@{hitdietype}+?{How mutch?}*@{constitution_mod}[CON]]] HP}}
 
 #### Multi Class Hit Dice
 ##### Replace NAME whit your caracters name
-&{template:default}@{hitdie_final}?{How much?}{{name=Hit Dice Healing}}{{NAME recovers [[?{How much?}d?{Hit Die Class}+?{How much?}*@{NAME|constitution_mod}[CON]]] HP}}
+&{template:default}@{hitdie_final}?{How much?}{{name=Hit Dice Healing}}{{NAME recovers [[?{How much?}d?{Hit Die Class}+?{How much?}*@{constitution_mod}[CON]]] HP}}
