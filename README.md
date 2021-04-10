@@ -15,14 +15,14 @@
 
 #
 
-##If you want to use a macro without opening yout character sheet. You can add it to the macro bar or as a token action:
-###Macro Bar:
+## If you want to use a macro without opening yout character sheet. You can add it to the macro bar or as a token action:
+### Macro Bar:
 ![Macro Bar](https://i.imgur.com/DqH2rsg.png)
-####Check the tick box laeled "Show in Macro Bar":
+#### Check the tick box laeled "Show in Macro Bar":
 ![Macro Bar in game](https://i.imgur.com/SDXTFcp.png)
-###Token Action:
+### Token Action:
 ![Token Action](https://i.imgur.com/99VCGe2.png)
-####Check the tick box labeled "Show as Token Action":
+#### Check the tick box labeled "Show as Token Action":
 ![Token Action in game](https://i.imgur.com/l9OcBPM.png)
 
 ### Don't forget to replace "NAME" with your character's name.
