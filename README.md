@@ -1,5 +1,6 @@
 # Roll20PlayerMacros
-### Macros I use as a player on Roll20
+
+## Macros I use as a player on Roll20
 
 ## How to create a new macro:
 #### Click on the "Attributes & Abilities" tab on your character sheet:
@@ -12,9 +13,7 @@
 ![Name](https://i.imgur.com/s1aiDYB.png)
 #### Paste in the macro appropriate to your character:
 ![Copy](https://i.imgur.com/GqFWBYH.png)
-
 #
-
 ## If you want to use a macro without opening yout character sheet. You can add it to the macro bar or as a token action:
 ### Macro Bar:
 ![Macro Bar](https://i.imgur.com/DqH2rsg.png)
@@ -24,5 +23,6 @@
 ![Token Action](https://i.imgur.com/99VCGe2.png)
 #### Check the tick box labeled "Show as Token Action":
 ![Token Action in game](https://i.imgur.com/l9OcBPM.png)
-
 ### Don't forget to replace "NAME" with your character's name.
+
+[<img src="https://i.imgur.com/0PmLD8F.png">](https://www.buymeacoffee.com/sirpuli)
