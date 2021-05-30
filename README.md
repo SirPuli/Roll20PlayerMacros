@@ -5,7 +5,7 @@
 ## How to create a new macro:
 #### Click on the "Attributes & Abilities" tab on your character sheet:
 ![Abilities](https://i.imgur.com/Vfl4IHW.png)
-#### Click on new on the right side:
+#### Click on add on the right side:
 ![New](https://i.imgur.com/RjfV9bi.png)
 #### Click on the pen icon to edit:
 ![Edit](https://i.imgur.com/5yDu6b5.png)
